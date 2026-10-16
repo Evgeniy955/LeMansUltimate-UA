@@ -8,7 +8,7 @@
 ![Гра](https://img.shields.io/badge/цільова_версія_LMU-1.4.3-168fff?style=for-the-badge)
 ![Платформа](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 
-### [⬇️ Завантажити інсталятор](https://github.com/Evgeniy955/LeMansUltimate-UA/releases/download/v0.3.5/LMU-UA-Launcher-0.3.5.exe)
+### [⬇️ Завантажити інсталятор](https://github.com/Evgeniy955/LeMansUltimate-UA/releases/download/v0.4.9/LMU-UA-Launcher-0.4.9.exe)
 
 [Переглянути всі версії та нотатки до релізів](https://github.com/Evgeniy955/LeMansUltimate-UA/releases)
 
@@ -45,7 +45,7 @@
 | Компонент | Версія |
 |---|---:|
 | Le Mans Ultimate | 1.4.3 |
-| Останній опублікований інсталятор | 0.3.5 |
+| Останній опублікований інсталятор | 0.4.9 |
 | Операційна система | Windows |
 | Мовний слот у Steam | Polish |
 
